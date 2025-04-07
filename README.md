@@ -75,6 +75,14 @@ Olá! Me chamo João Victor de Faria, tenho 19 anos e fui nascido e criado na ci
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="mySQL"
     title="mySQL" 
     width="30px" 
@@ -98,6 +106,8 @@ Olá! Me chamo João Victor de Faria, tenho 19 anos e fui nascido e criado na ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
 
 <br/>
 <br/>
