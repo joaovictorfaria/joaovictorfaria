@@ -4,6 +4,7 @@
 
 Olá! Me chamo João Victor de Faria, tenho 19 anos e fui nascido e criado na cidade de São Paulo. Sou formado pela ETESP como técnico em Desenvolvimento de Sistemas e, atualmente, curso Ciência da Computação na FECAP. Sou apaixonado por tecnologia, design e resolução de problemas, busco sempre me desenvolver cada vez mais enquanto faço o que gosto.
 
+<div style="display: flex; flex-direction: row;">
 <p align="left">
     <a href="https://github.com/joaovictorfaria?tab=repositories&sort=stargazers">
         <img 
@@ -20,6 +21,7 @@ Olá! Me chamo João Victor de Faria, tenho 19 anos e fui nascido e criado na ci
         />
     </a>
 </p>
+</div>
 
 ---
 
