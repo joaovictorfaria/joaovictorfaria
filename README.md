@@ -9,14 +9,14 @@ Olá! Me chamo João Victor de Faria, tenho 19 anos e fui nascido e criado na ci
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src=""
+            src="https://custom-icon-badges.demolab.com/github/stars/joaovictorfaria?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/joaovictorfaria?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src=""
+            title="Me siga no GitHub!" 
+            src="https://custom-icon-badges.demolab.com/github/followers/joaovictorfaria?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
