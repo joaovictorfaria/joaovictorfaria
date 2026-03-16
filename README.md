@@ -2,7 +2,11 @@
 
 **`Full-Stack Developer`**
 
-Olá! Me chamo João Victor de Faria, tenho 19 anos e sou nascido e criado na cidade de São Paulo. Sou formado pela ETESP como técnico em Desenvolvimento de Sistemas e, atualmente, curso Ciência da Computação na FECAP. Sou apaixonado por tecnologia, design e resolução de problemas, buscando sempre me desenvolver cada vez mais enquanto faço o que gosto.
+Olá, me chamo João Victor de Faria, estudante de Ciência da Computação pela FECAP e formado como Técnico em Desenvolvimento de Sistemas pela ETESP (Escola Técnica Estadual de São Paulo).
+
+Tenho grande interesse em desenvolvimento de software, tecnologia e resolução de problemas, buscando constantemente aprimorar minhas habilidades técnicas e construir soluções eficientes através da programação.
+
+Neste GitHub compartilho projetos acadêmicos e pessoais, explorando principalmente desenvolvimento web, arquitetura de sistemas e boas práticas de desenvolvimento. Meu objetivo é continuar evoluindo como desenvolvedor, aprendendo novas tecnologias e contribuindo para projetos que gerem impacto real.
 
 <p align="left">
     <a href="https://github.com/joaovictorfaria?tab=repositories&sort=stargazers">
